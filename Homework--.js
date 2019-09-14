@@ -1,3 +1,9 @@
+// Write a JavaScript function to get all possible subsets of length 3 of the given
+// array. Assume that all elements in the array are unique.
+//Դավիթ ջան անցած տնաինի ժամանակ ես մեկը չէի հասցրել գրել, հիմա լուծեցի ուղղակի ոնց անում եմ չի ստացվում N դեպքի համար,
+/եթե այսօր չստացվի Recursion-ով շուտ կգրեմ
+
+
 let array = [5, 9, 23, 0, -2, -1];
 let globalArray = [];
 
